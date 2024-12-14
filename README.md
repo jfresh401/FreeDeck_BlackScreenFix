@@ -1,0 +1,1 @@
+This fixes the black screen problem people are having when opening the FreeDeck configurator app. This is for Windows only. Right click on the .bat file and select RUN AS ADMINISTRATOR. This will delete the folder giving you the problem. 
